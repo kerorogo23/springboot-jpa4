@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="565fa94a-69ef-4b7b-a7b5-27de7abc6b93" name="Changes" comment="add controller Product">
+    <list default="true" id="565fa94a-69ef-4b7b-a7b5-27de7abc6b93" name="Changes" comment="application.properties 資料庫連線設定2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/user/IdeaProjects/springboot-jpa4",
     "node.js.detected.package.eslint": "true",
@@ -207,7 +212,23 @@
       <option name="project" value="LOCAL" />
       <updated>1688310298333</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="application.properties 資料庫連線設定">
+      <option name="closed" value="true" />
+      <created>1688310762371</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1688310762371</updated>
+    </task>
+    <task id="LOCAL-00018" summary="application.properties 資料庫連線設定2">
+      <option name="closed" value="true" />
+      <created>1688310791948</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1688310791948</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,6 +262,8 @@
     <MESSAGE value="add service impl Product" />
     <MESSAGE value="add controller User" />
     <MESSAGE value="add controller Product" />
-    <option name="LAST_COMMIT_MESSAGE" value="add controller Product" />
+    <MESSAGE value="application.properties 資料庫連線設定" />
+    <MESSAGE value="application.properties 資料庫連線設定2" />
+    <option name="LAST_COMMIT_MESSAGE" value="application.properties 資料庫連線設定2" />
   </component>
 </project>
