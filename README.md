@@ -49,7 +49,8 @@
       "password" : "123456"
     }
     ```
-<img src="https://imgur.com/OFzXSNR"/>
+![1200](https://github.com/kerorogo23/springboot-jpa4/assets/86586247/263bcd01-c2d1-4591-8c54-53203fc503f1)
+
 
 ### 商品功能：
 1. 新增／查詢／修改／刪除商品(CRUD)
