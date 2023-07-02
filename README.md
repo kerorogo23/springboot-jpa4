@@ -85,3 +85,6 @@
 
  ### 刪除(delete)
  ![delete](https://github.com/kerorogo23/springboot-jpa4/assets/86586247/44d3349f-1e66-4bbd-8e7f-bed7021ace90)
+
+ ### 商品列表(get products)
+ ![products](https://github.com/kerorogo23/springboot-jpa4/assets/86586247/21375b36-eff2-4eca-97b9-7ae808a11437)
