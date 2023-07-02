@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="565fa94a-69ef-4b7b-a7b5-27de7abc6b93" name="Changes" comment="add Repository User">
-      <change afterPath="$PROJECT_DIR$/springboot-jpa4/src/main/java/com/jack/springbootjpa4/repository/ProductRepository.java" afterDir="false" />
+    <list default="true" id="565fa94a-69ef-4b7b-a7b5-27de7abc6b93" name="Changes" comment="add service interface Product">
+      <change afterPath="$PROJECT_DIR$/springboot-jpa4/src/main/java/com/jack/springbootjpa4/service/impl/UserServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -146,7 +146,31 @@
       <option name="project" value="LOCAL" />
       <updated>1688308727933</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add Repository Product">
+      <option name="closed" value="true" />
+      <created>1688308886271</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1688308886271</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add service interface User">
+      <option name="closed" value="true" />
+      <created>1688309010502</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1688309010502</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add service interface Product">
+      <option name="closed" value="true" />
+      <created>1688309065359</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1688309065359</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +197,9 @@
     <MESSAGE value="add dto Product請求" />
     <MESSAGE value="建立 MapStruct" />
     <MESSAGE value="add Repository User" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Repository User" />
+    <MESSAGE value="add Repository Product" />
+    <MESSAGE value="add service interface User" />
+    <MESSAGE value="add service interface Product" />
+    <option name="LAST_COMMIT_MESSAGE" value="add service interface Product" />
   </component>
 </project>
