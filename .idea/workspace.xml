@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="565fa94a-69ef-4b7b-a7b5-27de7abc6b93" name="Changes" comment="add dto User註冊請求">
-      <change afterPath="$PROJECT_DIR$/springboot-jpa4/src/main/java/com/jack/springbootjpa4/dto/UserLoginRequest.java" afterDir="false" />
+    <list default="true" id="565fa94a-69ef-4b7b-a7b5-27de7abc6b93" name="Changes" comment="add dto Product請求">
+      <change afterPath="$PROJECT_DIR$/springboot-jpa4/src/main/java/com/jack/springbootjpa4/map/ProductMapper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -113,7 +114,23 @@
       <option name="project" value="LOCAL" />
       <updated>1688308133036</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add dto User登入請求">
+      <option name="closed" value="true" />
+      <created>1688308181830</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688308181830</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add dto Product請求">
+      <option name="closed" value="true" />
+      <created>1688308260754</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688308260754</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +153,8 @@
     <MESSAGE value="add enums ProductCategory" />
     <MESSAGE value="add entity Product" />
     <MESSAGE value="add dto User註冊請求" />
-    <option name="LAST_COMMIT_MESSAGE" value="add dto User註冊請求" />
+    <MESSAGE value="add dto User登入請求" />
+    <MESSAGE value="add dto Product請求" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dto Product請求" />
   </component>
 </project>
