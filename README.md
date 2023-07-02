@@ -90,5 +90,6 @@
  ![products](https://github.com/kerorogo23/springboot-jpa4/assets/86586247/21375b36-eff2-4eca-97b9-7ae808a11437)
 
 ```
-謝謝觀看！！
+→ Thanks for watching！！
+→ 謝謝觀看！！
 ```
