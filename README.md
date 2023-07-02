@@ -49,7 +49,7 @@
       "password" : "123456"
     }
     ```
-![1200](https://github.com/kerorogo23/springboot-jpa4/assets/86586247/263bcd01-c2d1-4591-8c54-53203fc503f1)
+![user request](https://github.com/kerorogo23/springboot-jpa4/assets/86586247/ad77df5c-ce0c-4d59-8695-933d0272559e)
 
 
 ### 商品功能：
@@ -73,3 +73,15 @@
           "description" : "※特別收錄-歐大旭新撰〈自序〉獻給中文版讀者。學者熊婷惠〈那張臉、陌生人與倖存者〉專文評析"
       }
       ```
+
+ ### 新增(creatd)
+ ![create](https://github.com/kerorogo23/springboot-jpa4/assets/86586247/4d17aef8-4187-4b7b-9da4-bdfc8e80948e)
+
+ ### 查詢(read)
+ ![read](https://github.com/kerorogo23/springboot-jpa4/assets/86586247/af41199a-bdfc-47ba-bbd8-1195ff57906f)
+
+ ### 修改(update)
+ ![update](https://github.com/kerorogo23/springboot-jpa4/assets/86586247/1314734a-0818-4bed-8462-6ab6946133be)
+
+ ### 刪除(delete)
+ ![delete](https://github.com/kerorogo23/springboot-jpa4/assets/86586247/44d3349f-1e66-4bbd-8e7f-bed7021ace90)
