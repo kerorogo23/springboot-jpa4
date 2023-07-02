@@ -49,7 +49,7 @@
       "password" : "123456"
     }
     ```
-![image](https://imgur.com/OFzXSNR)
+![image]([https://imgur.com/OFzXSNR](https://i.imgur.com/OFzXSNR.png))
 
 ### 商品功能：
 1. 新增／查詢／修改／刪除商品(CRUD)
