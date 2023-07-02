@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="565fa94a-69ef-4b7b-a7b5-27de7abc6b93" name="Changes" comment="pom.xml設定" />
+    <list default="true" id="565fa94a-69ef-4b7b-a7b5-27de7abc6b93" name="Changes" comment="add entity User">
+      <change afterPath="$PROJECT_DIR$/springboot-jpa4/src/main/java/com/jack/springbootjpa4/entity/Product.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +33,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2S1EgN96Nf8jCi3GuzxWgCHlOwL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -65,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688305797066</updated>
-      <workItem from="1688305798227" duration="1303000" />
+      <workItem from="1688305798227" duration="1723000" />
     </task>
     <task id="LOCAL-00001" summary="add README.md">
       <option name="closed" value="true" />
@@ -83,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688306958596</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add entity User">
+      <option name="closed" value="true" />
+      <created>1688307500052</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688307500052</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add README.md" />
     <MESSAGE value="pom.xml設定" />
-    <option name="LAST_COMMIT_MESSAGE" value="pom.xml設定" />
+    <MESSAGE value="add entity User" />
+    <option name="LAST_COMMIT_MESSAGE" value="add entity User" />
   </component>
 </project>
