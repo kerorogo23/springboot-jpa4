@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="565fa94a-69ef-4b7b-a7b5-27de7abc6b93" name="Changes" comment="add dto Product請求">
-      <change afterPath="$PROJECT_DIR$/springboot-jpa4/src/main/java/com/jack/springbootjpa4/map/ProductMapper.java" afterDir="false" />
+    <list default="true" id="565fa94a-69ef-4b7b-a7b5-27de7abc6b93" name="Changes" comment="add Repository User">
+      <change afterPath="$PROJECT_DIR$/springboot-jpa4/src/main/java/com/jack/springbootjpa4/repository/ProductRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +130,23 @@
       <option name="project" value="LOCAL" />
       <updated>1688308260754</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="建立 MapStruct">
+      <option name="closed" value="true" />
+      <created>1688308503924</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688308503924</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add Repository User">
+      <option name="closed" value="true" />
+      <created>1688308727933</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1688308727933</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +171,8 @@
     <MESSAGE value="add dto User註冊請求" />
     <MESSAGE value="add dto User登入請求" />
     <MESSAGE value="add dto Product請求" />
-    <option name="LAST_COMMIT_MESSAGE" value="add dto Product請求" />
+    <MESSAGE value="建立 MapStruct" />
+    <MESSAGE value="add Repository User" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Repository User" />
   </component>
 </project>
