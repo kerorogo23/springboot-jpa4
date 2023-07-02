@@ -50,6 +50,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+<!--		Lombok 暫時註解掉。-->
 <!--		<dependency>-->
 <!--			<groupId>org.projectlombok</groupId>-->
 <!--			<artifactId>lombok</artifactId>-->
