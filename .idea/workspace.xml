@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="565fa94a-69ef-4b7b-a7b5-27de7abc6b93" name="Changes" comment="application.properties 資料庫連線設定2">
+    <list default="true" id="565fa94a-69ef-4b7b-a7b5-27de7abc6b93" name="Changes" comment="entity層 strategy = GenerationType.IDENTITY 改動">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/963c713e-dd05-4c0a-a22a-4dec3e4a1322.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/963c713e-dd05-4c0a-a22a-4dec3e4a1322.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-jpa4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-jpa4/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +59,8 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "spring.configuration.checksum": "7b1312a1b3e74bb174b3fbbf68ab5a92",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -83,6 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1688305797066</updated>
       <workItem from="1688305798227" duration="1303000" />
+      <workItem from="1688323519568" duration="3434000" />
     </task>
     <task id="LOCAL-00001" summary="add README.md">
       <option name="closed" value="true" />
@@ -228,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688310791948</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="entity層 strategy = GenerationType.IDENTITY 改動">
+      <option name="closed" value="true" />
+      <created>1688311808566</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1688311808566</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,6 +277,27 @@
     <MESSAGE value="add controller Product" />
     <MESSAGE value="application.properties 資料庫連線設定" />
     <MESSAGE value="application.properties 資料庫連線設定2" />
-    <option name="LAST_COMMIT_MESSAGE" value="application.properties 資料庫連線設定2" />
+    <MESSAGE value="entity層 strategy = GenerationType.IDENTITY 改動" />
+    <option name="LAST_COMMIT_MESSAGE" value="entity層 strategy = GenerationType.IDENTITY 改動" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-jpa4/src/main/java/com/jack/springbootjpa4/controller/UserController.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-jpa4/src/main/java/com/jack/springbootjpa4/controller/UserController.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
