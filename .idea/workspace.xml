@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="565fa94a-69ef-4b7b-a7b5-27de7abc6b93" name="Changes" comment="add service impl User">
-      <change afterPath="$PROJECT_DIR$/springboot-jpa4/src/main/java/com/jack/springbootjpa4/service/impl/ProductServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-jpa4/src/main/java/com/jack/springbootjpa4/map/ProductMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-jpa4/src/main/java/com/jack/springbootjpa4/map/ProductMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-jpa4/src/main/java/com/jack/springbootjpa4/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-jpa4/src/main/java/com/jack/springbootjpa4/service/impl/UserServiceImpl.java" afterDir="false" />
+    <list default="true" id="565fa94a-69ef-4b7b-a7b5-27de7abc6b93" name="Changes" comment="add service impl Product">
+      <change afterPath="$PROJECT_DIR$/springboot-jpa4/src/main/java/com/jack/springbootjpa4/controller/UserController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688309209115</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add service impl Product">
+      <option name="closed" value="true" />
+      <created>1688309955741</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1688309955741</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +217,7 @@
     <MESSAGE value="add service interface User" />
     <MESSAGE value="add service interface Product" />
     <MESSAGE value="add service impl User" />
-    <option name="LAST_COMMIT_MESSAGE" value="add service impl User" />
+    <MESSAGE value="add service impl Product" />
+    <option name="LAST_COMMIT_MESSAGE" value="add service impl Product" />
   </component>
 </project>
