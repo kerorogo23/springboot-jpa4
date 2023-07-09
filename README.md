@@ -5,7 +5,7 @@
 ## 環境
 
 1. Java JDK 11
-2. Spring Boot: 2.3.7.RELEASE
+2. Spring Boot: 2.3.7
 3. MySQL: 8.0.31
 4. IntelliJ IDEA
 
